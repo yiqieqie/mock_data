@@ -1,3 +1,6 @@
 {
-"isLogin": true
+  "auth": 
+    {
+    "isLogin": true
+    }
 }
