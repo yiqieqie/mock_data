@@ -1,11 +1,8 @@
 {
-  "auth": 
-    {
-    "isLogin": true
-    },
-  "data|10": [
-    {
-      "key": "@id",
-    }
-    ],
+	"auth": {
+		"isLogin": true
+	},
+	"data|10": [{
+		"key": "@id"
+	}]
 }
